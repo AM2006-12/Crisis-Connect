@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Crisis Connect</string>
+    <string name="hold_for_sos">Hold for SOS</string>
+    <string name="sos_active_tap_to_cancel">SOS ACTIVE — Tap to Cancel</string>
+</resources>
